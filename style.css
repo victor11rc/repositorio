@@ -1,0 +1,27 @@
+/*ID va con# */
+
+#titulo-principal{
+    color: darkblue;
+    text-align: center;
+    font-size: 32px;
+}
+
+/* Clases con . */
+
+.texto-destacado{
+    color: crimson;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.especial {
+    background-color: orange;
+}
